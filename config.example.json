@@ -1,0 +1,12 @@
+{
+  "port": 3000,
+  "wallets": {
+    "ethereum": ["0xYourEthereumAddress"],
+    "solana": ["YourSolanaAddress"]
+  },
+  "rpc": {
+    "ethereum": "https://ethereum-rpc.publicnode.com",
+    "solana": "https://api.mainnet-beta.solana.com"
+  },
+  "nearEdgeThreshold": 0.1
+}
